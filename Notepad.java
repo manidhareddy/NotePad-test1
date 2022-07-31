@@ -123,7 +123,7 @@ public void actionPerformed(ActionEvent e){
         jta.paste();
     }
     else if(e.getActionCommand().equals("About Notepad")){
-        JOptionPane.showMessageDialog(this,"Created by : Manidhar Reddy  26/07/2022","Notepad",JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(this,"Created by : you can add you name here","Notepad",JOptionPane.INFORMATION_MESSAGE);
     }
     else if(e.getActionCommand().equals("Cut")){
         jta.cut();
