@@ -1,2 +1,2 @@
 # NotePad-project
-notepad used to type text and save it
+notepad used to edit text and save it
